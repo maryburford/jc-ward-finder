@@ -175,7 +175,7 @@ return (
     <h2 className="text-lg font-bold">Message your Jersey City Councilperson</h2>
 
     <p className="mt-2 text-base opacity-80">
-      Type your address to get the right contact info — plus a ready-to-copy message asking Jersey City to fund animal welfare.
+      Type your address to get the right contact info — plus a ready-to-copy message asking Jersey City to better fund animal welfare.
     </p>
     <p className="mt-2 text-base opacity-80">
       Don’t want to email? No problem. Copy the message and post it on their Facebook or Instagram.
