@@ -260,7 +260,7 @@ return (
                       rel="noreferrer"
                       className="px-3 py-2 rounded-lg border text-sm"
                     >
-                      Post on Facebook
+                      Message on Facebook
                     </a>
                   ) : null}
 
@@ -271,7 +271,7 @@ return (
                       rel="noreferrer"
                       className="px-3 py-2 rounded-lg border text-sm"
                     >
-                      Open Instagram
+                      Message on Instagram
                     </a>
                   ) : null}
 
