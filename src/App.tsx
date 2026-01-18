@@ -166,7 +166,12 @@ export default function App() {
   }
 
 return (
-  <div className="min-h-screen p-5 max-w-xl mx-auto">
+<div className="mt-2 flex flex-col items-center text-center gap-3">
+  <img
+    src="/fat-tortie.png"
+    alt="Fat tortie"
+    className="w-auto h-72"
+  />
     <h1 className="text-2xl font-bold">Message your Jersey City Councilperson</h1>
 
     <p className="mt-2 text-sm opacity-80">
