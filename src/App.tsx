@@ -170,7 +170,7 @@ return (
   <img
     src="/fat-tortie.png"
     alt="Fat tortie"
-    className="w-auto h-40"
+    className="w-40 h-auto"
   />
     <h2 className="text-lg font-bold">Message your Jersey City Councilperson</h2>
 
