@@ -172,12 +172,12 @@ return (
     alt="Fat tortie"
     className="w-auto h-50"
   />
-    <h1 className="text-2xl font-bold">Message your Jersey City Councilperson</h1>
+    <h1 className="text-xl font-bold">Message your Jersey City Councilperson</h1>
 
-    <p className="mt-2 text-sm opacity-80">
+    <p className="mt-2 text-base opacity-80">
       Type your address to get the right contact info — plus a ready-to-copy message asking Jersey City to fund animal welfare.
     </p>
-    <p className="mt-2 text-sm opacity-80">
+    <p className="mt-2 text-base opacity-80">
       Don’t want to email? No problem. Copy the message and post it on their Facebook or Instagram.
     </p>
     <p className="mt-2 text-xs opacity-70">
@@ -279,7 +279,7 @@ return (
                     onClick={() => copyToClipboard(message)}
                     className="px-3 py-2 rounded-lg border text-sm font-semibold"
                   >
-                    Copy message text
+                    Click Here to Copy Message
                   </button>
                 </div>
 
